@@ -1,4 +1,4 @@
-# 🏏 ICC Men's_T20_Cricket_World_Cup_2022_Data_Analysis 🏆
+# 🏏ICC Men's_T20_Cricket_World_Cup_2022_Data_Analysis🏆
 
 ![ICC MEN'S t20](https://images.icc-cricket.com/image/upload/t_ratio21_9-size60/prd/mdshkinerjyzccdxwc5j)
 
